@@ -26,7 +26,7 @@
 <img width="270" alt="2" src="https://github.com/sedatbarlin/TCPSocketClient/assets/71966913/aea54730-7de8-4b0b-8d1e-b879b9997453">
 <img width="270" alt="3" src="https://github.com/sedatbarlin/TCPSocketClient/assets/71966913/abe0727e-cf99-4c71-afb7-7e5c634e0a98">
 <img width="270" alt="4" src="https://github.com/sedatbarlin/TCPSocketClient/assets/71966913/4f3477f4-6e16-4220-a640-a72612ffdd65">
-<img width="800" alt="5" src="https://github.com/sedatbarlin/TCPSocketClient/assets/71966913/524ca670-bf08-4712-8736-f379071732f0">
+<img width="600" alt="5" src="https://github.com/sedatbarlin/TCPSocketClient/assets/71966913/524ca670-bf08-4712-8736-f379071732f0">
   
 ## 🎥 App introduction video
 
