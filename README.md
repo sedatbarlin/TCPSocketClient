@@ -22,10 +22,10 @@
   
 ## 📸 Screenshots
 
-<img width="200" alt="1" src="https://github.com/sedatbarlin/TCPSocketClient/assets/71966913/93ed7003-204d-4abf-9b65-811c8d6b39b9">
-<img width="200" alt="2" src="https://github.com/sedatbarlin/TCPSocketClient/assets/71966913/aea54730-7de8-4b0b-8d1e-b879b9997453">
-<img width="200" alt="3" src="https://github.com/sedatbarlin/TCPSocketClient/assets/71966913/abe0727e-cf99-4c71-afb7-7e5c634e0a98">
-<img width="200" alt="4" src="https://github.com/sedatbarlin/TCPSocketClient/assets/71966913/4f3477f4-6e16-4220-a640-a72612ffdd65">
+<img width="180" alt="1" src="https://github.com/sedatbarlin/TCPSocketClient/assets/71966913/93ed7003-204d-4abf-9b65-811c8d6b39b9">
+<img width="180" alt="2" src="https://github.com/sedatbarlin/TCPSocketClient/assets/71966913/aea54730-7de8-4b0b-8d1e-b879b9997453">
+<img width="180" alt="3" src="https://github.com/sedatbarlin/TCPSocketClient/assets/71966913/abe0727e-cf99-4c71-afb7-7e5c634e0a98">
+<img width="180" alt="4" src="https://github.com/sedatbarlin/TCPSocketClient/assets/71966913/4f3477f4-6e16-4220-a640-a72612ffdd65">
 <img width="1000" alt="5" src="https://github.com/sedatbarlin/TCPSocketClient/assets/71966913/524ca670-bf08-4712-8736-f379071732f0">
   
 ## 🎥 App introduction video
